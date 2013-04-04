@@ -1,0 +1,16 @@
+PATH
+  remote: .
+  specs:
+    keith (0.0.3)
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+    rake (10.0.4)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  keith!
+  rake
