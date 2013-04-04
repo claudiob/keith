@@ -1,7 +1,6 @@
 class Keith
   def self.hi
     [
-      'Keith is Leghorn',
       'Keith has never not been bald',
       'Keith pretends to know German',
       'Keith does all his work in dreamweaver',
